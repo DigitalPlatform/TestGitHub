@@ -16,5 +16,11 @@ namespace TestGitHub
         {
             InitializeComponent();
         }
+
+        // 这是在 dev 分支里面添加的一个按钮
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(this, "button1");
+        }
     }
 }
