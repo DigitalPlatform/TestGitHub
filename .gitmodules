@@ -1,0 +1,3 @@
+[submodule "TestLibrary1"]
+	path = TestLibrary1
+	url = https://github.com/DigitalPlatform/TestLibrary1.git
